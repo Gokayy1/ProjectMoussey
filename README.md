@@ -8,7 +8,7 @@
 
 ## 🎮 Built With
 
-- **Unity** 2021.3 LTS
+- **Unity** 2022.3.59f1 LTS
 - **C#** for game logic and systems
 - **Unity Tilemaps** for environment generation
 - **Custom Manager Architecture** for modular system design
