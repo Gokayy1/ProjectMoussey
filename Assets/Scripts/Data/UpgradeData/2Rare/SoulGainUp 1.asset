@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7b986bc3db41124da40d325ecc4370a, type: 3}
+  m_Name: SoulGainUp 1
+  m_EditorClassIdentifier: 
+  upgradeName: Soul Gain+1
+  description: 
+  icon: {fileID: 21300000, guid: 435a884de482b784eb528d9af9378089, type: 3}
+  rarity: 1
+  unlocksOnPick:
+  - {fileID: 11400000, guid: baf62d748ea1afa4ba38b19e93d84c29, type: 2}

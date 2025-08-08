@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7b986bc3db41124da40d325ecc4370a, type: 3}
+  m_Name: CrystalGainUp 1
+  m_EditorClassIdentifier: 
+  upgradeName: Crystal Gain+1
+  description: 
+  icon: {fileID: 21300000, guid: e5ade1cf28d6d9246ab5f9327f4770d5, type: 3}
+  rarity: 1
+  unlocksOnPick:
+  - {fileID: 11400000, guid: 0920014141c867e4b856b8ddcbac344d, type: 2}

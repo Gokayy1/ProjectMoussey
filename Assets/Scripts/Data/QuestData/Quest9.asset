@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0b75f9681d512d4f8922a9e5978e326, type: 3}
+  m_Name: Quest9
+  m_EditorClassIdentifier: 
+  questTitle: The Mother Nature
+  giverIcon: {fileID: 0}
+  timeLimit: 50
+  giver: 4
+  requiredResources:
+  - resourceType: 4
+    requiredAmount: 600
+  - resourceType: 6
+    requiredAmount: 600
+  - resourceType: 7
+    requiredAmount: 300
+  - resourceType: 5
+    requiredAmount: 200
+  - resourceType: 9
+    requiredAmount: 100

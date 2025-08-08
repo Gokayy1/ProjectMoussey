@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Resource
+  - Tree
+  - BiomeZone
+  - BuildZone
+  - Enemy
+  - Popup
+  - QuestChecker
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Interactable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1418538879
+    locked: 0
+  - name: interactableLayer
+    uniqueID: 3582594737
+    locked: 0
+  - name: Player
+    uniqueID: 1978122025
+    locked: 0
+  - name: Enemy
+    uniqueID: 306335683
+    locked: 0
