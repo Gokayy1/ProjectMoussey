@@ -1,4 +1,4 @@
-# Project Moussey  WEBGL : https://play.unity.com/en/games/620ba482-3dc4-40c5-98e8-727f42fad60f/mousseywebgl
+# Project Moussey
 
 **Project Moussey** is a 2D resource-driven game developed using the Unity Engine as part of a graduation project.
 
@@ -29,4 +29,6 @@
 ## 📄 License
 
 This project is currently private and not intended for commercial or public use. Please do not copy or reuse without permission.
+
+WEBGL : https://play.unity.com/en/games/620ba482-3dc4-40c5-98e8-727f42fad60f/mousseywebgl
 
